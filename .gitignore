@@ -1,0 +1,8 @@
+#local vscode settings
+.vscode
+
+#node modules
+node_modules
+
+#local build folder
+dist
